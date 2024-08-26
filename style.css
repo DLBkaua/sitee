@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: purple;
+    color: white;
+    padding: 1em 0;
+}
+
+.content {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 20px 0;
+}
+
+p {
+    margin: 0 0 20px;
+}
